@@ -1,5 +1,5 @@
 # bang-olufsen-landing-page
-[DEMO LINK](https://annabasenyuk.github.io/bang-olufsen-landing-page/)
+[DEMO LINK](https://annabasenyuk.github.io/layout_landing-page/)
 Project Name: Bang & Olufsen Music Devices Website
 
 Technologies:
